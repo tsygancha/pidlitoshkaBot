@@ -72,7 +72,7 @@ def job():
     asyncio.run(check_and_send_birthdays())
 
 # Заплануйте запуск щодня о 8:00
-schedule.every().day.at("8:00").do(job)
+schedule.every().day.at("08:00").do(job)
 
 # Постійна робота програми
 if __name__ == "__main__":
