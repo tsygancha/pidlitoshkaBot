@@ -5,10 +5,13 @@ import json
 import schedule
 import time
 import asyncio
+import os
 
 # Токен вашого бота
-BOT_TOKEN = '8198273247:AAGyYo_-JCosp2lNJzU-OKq79um155zBR-k'
+
 CHAT_ID = '-4690038303'
+
+BOT_TOKEN = os.getenv("BOT_TOKEN")
 
 # Шлях до бази даних
 DATABASE_PATH = 'birthdays.json'
