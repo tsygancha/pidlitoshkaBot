@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "ANASTASIA-PC",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus10.actions.githubusercontent.com/MJISr3VX9OMEETQKqx67Xysx6GYhuT8GcJ1oKn23le8nXdSkxl/",
+  "gitHubUrl": "https://github.com/tsygancha/pidlitoshkaBot",
+  "workFolder": "_work"
+}
